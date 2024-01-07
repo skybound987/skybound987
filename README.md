@@ -23,7 +23,7 @@
 <b>Interactive Web Application with Angular</b>
   - <p>A basic web app with an interactive map of the world.</p>
   - <p>Captures mouseover events when hovering over a country to connect with Worldbank API and retrieves real-time country data.</p>
-  - <p>Built using the Angular framework and Typescript.</p>
+  - <p>Built using the Angular framework and TypeScript.</p>
   - <p><a href="https://github.com/skybound987/Angular-Web-App" target="_blank">Angular Web Application Repository</a></p><br>
 
 <b>Arcade Style Space Shooter with Godot Engine</b>
