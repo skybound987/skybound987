@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">Connect with me on LinkedIn</a><br>
 
+<br>
+
 <b>Shipbuilder by day 🌤 , software and game developer by night 🌙 ... </b>
   - <b>I am currently employed with defense contractor Huntington Ingalls Industries.</b>
   - <b>I am a software engineering student on my third term at WGU.</b>
@@ -18,7 +20,6 @@
 <b>Basic website hosted on W3 Schools</b>
   - <p>A basic website based on the state of Virginia, its capital city and several others.</p>
   - <p>Consists of basic HTML, CSS, and JavaScript, and hosted on W3Schools.</p>
-  - <p><a href="https://skybound.w3spaces.com/index.html" target="_blank">State of Virginia Website</a></p>
   - <p><a href="https://github.com/skybound987/Virginia-Website-Project" target="_blank">Website Repository</a></p><br>
 
 <b>Interactive Web Application with Angular</b>
