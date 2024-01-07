@@ -1,8 +1,9 @@
 <h2>Hi, I'm Jon! ✌ <a href="https://github.com/skybound987" target="_blank">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">CAD Designer</a>, <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html" target="_blank">Software Engineering Student</a></h2><br>
 
+<a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">Connect with me on LinkedIn</a><br>
+
 <b>Shipbuilder by day 🌤 , software and game developer by night 🌙 ... </b>
   - <b>I am currently employed with defense contractor Huntington Ingalls Industries.</b>
-  - <b>I have been a CAD designer for nuclear powered naval vessels for over 13 years.</b>
   - <b>I am a software engineering student on my third term at WGU.</b>
   - <b>I have made a commitment to transitioning my career into software development.</b>
   - <b><a href="https://github.com/skybound987/WGU-Class-Progress" target="_blank">See my current class progress at WGU</a></b>
