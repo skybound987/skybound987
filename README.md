@@ -1,6 +1,8 @@
 ### Hi there 
 <h1>Hi, I'm Jon! 👋 <br/><a href="https://github.com/skybound987">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/">CAD Designer</a></h1>
 
+<b>Marine CAD Design by day 🌤 , software and game developer by night 🌙 ... </b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
