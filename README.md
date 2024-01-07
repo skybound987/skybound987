@@ -5,9 +5,25 @@
 <br>
 <h2>Software Development Projects</h2>
 
-<b>PostgreSQL</b>
+<b>PostgreSQL Film Database</b>
   - <p>PostgreSQL projects that queries a film database to discover which film categories have the highest amount of rentals.</p>
-  - <p>https://github.com/skybound987/PostgreSQL-Project</p>
+  - <p><a href="https://github.com/skybound987/PostgreSQL-Project">PostgresSQL Project Repository</a></p><br>
+
+<b>Basic website hosted on W3 Schools</b>
+  - <p>A basic website based on the state of Virginia, its capital city and several others.</p>
+  - <p>Consists of basic HTML, CSS, and JavaScript, and hosted on W3Schools.</p>
+  - <p><a href="https://skybound.w3spaces.com/index.html">State of Virginia Website</a></p><br>
+
+<b>Interactive Web Application with Angular</b>
+  - <p>A basic web app with an interactive map of the world.</p>
+  - <p>Captures mouseover events when hovering over a country to connect with Worldbank API and retrieves real-time country data.</p>
+  - <p>Built using the Angular framework and Typescript.</p>
+  - <p><a href=""></a>Placeholder Link</p><br>
+
+<b>Arcade Style Space Shooter with Godot Engine</b>
+  - <p>A simple arcade-style space themed vertical scroller built using Godot 4.1</p>
+  - <p>All scripts written in GDScript (similar to Python)</p>
+  - <p><a href="https://github.com/skybound987/arcade-shooter">Arcade Shooter Repository</p><br>
 
 <br>
 <h2>Connect with me on LinkedIn:</h2>
