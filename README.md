@@ -42,7 +42,6 @@
 
 <br><br>
 <p><b>Email: jonhendrix86@gmail.com</b></p>
-<p><b>Phone: (757)-813-7795</b></p>
 <br>
 <!--
 **skybound987/skybound987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
