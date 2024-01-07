@@ -12,7 +12,7 @@
 <b>Basic website hosted on W3 Schools</b>
   - <p>A basic website based on the state of Virginia, its capital city and several others.</p>
   - <p>Consists of basic HTML, CSS, and JavaScript, and hosted on W3Schools.</p>
-  - <p><a href="https://skybound.w3spaces.com/index.html">State of Virginia Website</a></p><br>
+  - <p><a href="https://skybound.w3spaces.com/index.html">State of Virginia Website</a></p>
   - <p><a href="https://github.com/skybound987/Virginia-Website-Project">Website Repository</a></p><br>
 
 <b>Interactive Web Application with Angular</b>
