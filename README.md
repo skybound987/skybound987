@@ -15,7 +15,8 @@
 [<img align="left" alt="JonHendrix | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jonny-hendrix/
-<br>
+
+<br><br>
 <p><b>Email: skybound987@protonmail.com</b></p>
 <p><b>Phone: </b></p>
 <br>
