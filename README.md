@@ -5,7 +5,7 @@
 <br>
 
 <b>Shipbuilder by day 🌤 , software and game developer by night 🌙 ... </b>
-  - <b>I am currently employed with defense contractor Huntington Ingalls Industries.</b>
+  - <b>I am currently employed with defense contractor Huntington Ingalls Industries, America's largest shipbuilder and a global, all-domain defense provider</b>
   - <b>I am a software engineering student on my third term at WGU.</b>
   - <b>I have made a commitment to transitioning my career into software development.</b>
   - <b><a href="https://github.com/skybound987/WGU-Class-Progress" target="_blank">See my current class progress at WGU</a></b>
