@@ -15,7 +15,7 @@
 
 
 <b>PostgreSQL Film Database</b><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank"><img align="center" alt="PostgreSQL" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="55px"/></a>
-  - <p>PostgreSQL projects that queries a film database to discover which film categories have the highest amount of rentals.</p>
+  - <p>PostgreSQL project that queries a film database to discover which film categories have the highest amount of rentals.</p>
   - <p><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank">PostgresSQL Project Repository</a></p><br>
 
 
