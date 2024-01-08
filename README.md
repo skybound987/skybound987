@@ -13,22 +13,24 @@
 <br>
 <h2>Software Development Projects</h2>
 
-<b>PostgreSQL Film Database</b>
+
+<b>PostgreSQL Film Database</b><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank"><img align="center" alt="PostgreSQL" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="55px"/></a>
   - <p>PostgreSQL projects that queries a film database to discover which film categories have the highest amount of rentals.</p>
   - <p><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank">PostgresSQL Project Repository</a></p><br>
 
-<b>Basic Website</b>
+
+<b>Basic Website</b><a href="https://github.com/skybound987/Virginia-Website-Project" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/d27be88e-31a9-448a-9b4a-4711e42ae5a9" width="65px"/></a>
   - <p>A basic website based on the state of Virginia, its capital city and several others.</p>
   - <p>Consists of basic HTML, CSS, and JavaScript, and hosted on W3Schools (not currently formatted for mobile devices).</p>
   - <p><a href="https://github.com/skybound987/Virginia-Website-Project" target="_blank">Website Repository</a></p><br>
 
-<b>Interactive Web Application with Angular</b>
+<b>Interactive Web Application with Angular</b><a href="https://github.com/skybound987/Angular-Web-App" target="_blank"><img align="center" alt="Angular" src="https://github.com/skybound987/skybound987/assets/100818602/4a8425de-44de-4f60-a8e2-737d05265678" width="55px"/></a>
   - <p>A basic web app with an interactive map of the world.</p>
   - <p>Captures mouseover events when hovering over a country to connect with Worldbank API and retrieves real-time country data.</p>
   - <p>Built using the Angular framework and TypeScript.</p>
   - <p><a href="https://github.com/skybound987/Angular-Web-App" target="_blank">Angular Web Application Repository</a></p><br>
 
-<b>Arcade Style Space Shooter with Godot Engine</b>
+<b>Arcade Style Space Shooter with Godot Engine</b><a href="https://github.com/skybound987/arcade-shooter" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
   - <p>A simple arcade-style space themed vertical scroller built using Godot 4.1</p>
   - <p>All scripts written in GDScript (similar to Python)</p>
   - <p><a href="https://github.com/skybound987/arcade-shooter" target="_blank">Arcade Shooter Repository</a></p><br>
