@@ -35,6 +35,11 @@
   - <p>All scripts written in GDScript (similar to Python)</p>
   - <p><a href="https://github.com/skybound987/arcade-shooter" target="_blank">Arcade Shooter Repository</a></p><br>
 
+<b>Next Idea</b>
+  - <p>An interactive guitar fretboard application with the goal of helping memorizing the notes on the fretboard.</p>
+  - <p>Displays a guitar fretboard, and a random string/fret will be chosen.</p>
+  - <p>Player has to guess the note correctly to proceed and gain a higher score.</p>
+
 <br>
 <h2>Connect with me on LinkedIn:</h2>
 
