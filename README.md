@@ -18,6 +18,11 @@
   - <p>All scripts written in GDScript</p>
   - <p><a href="https://github.com/skybound987/adevture_game" target="_blank">Repository</a></p><br>
 
+<b>Arcade Style Space Shooter</b><a href="https://github.com/skybound987/arcade-shooter" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
+  - <p>A simple arcade-style space themed vertical scroller built using Godot 4.1</p>
+  - <p>All scripts written in GDScript (similar to Python)</p>
+  - <p><a href="https://github.com/skybound987/arcade-shooter" target="_blank">Arcade Shooter Repository</a></p><br>
+
 <b>PostgreSQL Film Database</b><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank"><img align="center" alt="PostgreSQL" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="55px"/></a>
   - <p>PostgreSQL project that queries a film database to discover which film categories have the highest amount of rentals.</p>
   - <p><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank">PostgresSQL Project Repository</a></p><br>
@@ -33,11 +38,6 @@
   - <p>Captures mouseover events when hovering over a country to connect with Worldbank API and retrieves real-time country data.</p>
   - <p>Built using the Angular framework and TypeScript.</p>
   - <p><a href="https://github.com/skybound987/Angular-Web-App" target="_blank">Angular Web Application Repository</a></p><br>
-
-<b>Arcade Style Space Shooter with Godot Engine</b><a href="https://github.com/skybound987/arcade-shooter" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
-  - <p>A simple arcade-style space themed vertical scroller built using Godot 4.1</p>
-  - <p>All scripts written in GDScript (similar to Python)</p>
-  - <p><a href="https://github.com/skybound987/arcade-shooter" target="_blank">Arcade Shooter Repository</a></p><br>
 
 <b>Next Idea</b>
   - <p>An interactive guitar fretboard application with the goal of helping memorizing the notes on the fretboard.</p>
