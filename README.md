@@ -13,6 +13,10 @@
 <br>
 <h2>Software Development Projects</h2>
 
+<b>2.5D Isometric RPG with Godot Engine</b><a href="https://github.com/skybound987/adventure_game" target="_blank"><img align="center" alt="Godot" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
+  - <p>An idea for an isometric 2.5D style adveture game built using Godot 4.2</p>
+  - <p>All scripts written in GDScript</p>
+  - <p><a href="https://github.com/skybound987/adevture_game" target="_blank">Repository</a></p><br>
 
 <b>PostgreSQL Film Database</b><a href="https://github.com/skybound987/PostgreSQL-Project" target="_blank"><img align="center" alt="PostgreSQL" src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" width="55px"/></a>
   - <p>PostgreSQL project that queries a film database to discover which film categories have the highest amount of rentals.</p>
