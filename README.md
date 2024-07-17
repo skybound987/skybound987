@@ -13,7 +13,7 @@
 <br>
 <h2>Software Development Projects</h2>
 
-<b>2.5D Isometric RPG with Godot Engine</b><a href="https://github.com/skybound987/adventure_game" target="_blank"><img align="center" alt="Godot" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
+<b>2.5D Isometric RPG</b><a href="https://github.com/skybound987/adventure_game" target="_blank"><img align="center" alt="Godot" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
   - <p>An idea for an isometric 2.5D style adveture game built using Godot 4.2</p>
   - <p>All scripts written in GDScript</p>
   - <p><a href="https://github.com/skybound987/adevture_game" target="_blank">Repository</a></p><br>
@@ -28,7 +28,7 @@
   - <p>Consists of basic HTML, CSS, and JavaScript, and hosted on W3Schools (not currently formatted for mobile devices).</p>
   - <p><a href="https://github.com/skybound987/Virginia-Website-Project" target="_blank">Website Repository</a></p><br>
 
-<b>Interactive Web Application with Angular</b><a href="https://github.com/skybound987/Angular-Web-App" target="_blank"><img align="center" alt="Angular" src="https://github.com/skybound987/skybound987/assets/100818602/4a8425de-44de-4f60-a8e2-737d05265678" width="55px"/></a>
+<b>Interactive Web Application</b><a href="https://github.com/skybound987/Angular-Web-App" target="_blank"><img align="center" alt="Angular" src="https://github.com/skybound987/skybound987/assets/100818602/4a8425de-44de-4f60-a8e2-737d05265678" width="55px"/></a>
   - <p>A basic web app with an interactive map of the world.</p>
   - <p>Captures mouseover events when hovering over a country to connect with Worldbank API and retrieves real-time country data.</p>
   - <p>Built using the Angular framework and TypeScript.</p>
