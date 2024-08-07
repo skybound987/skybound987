@@ -16,7 +16,7 @@
 <b>2.5D Isometric RPG</b><a href="https://github.com/skybound987/adventure_game" target="_blank"><img align="center" alt="Godot" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
   - <p>An idea for an isometric 2.5D style adveture game built using Godot 4.2</p>
   - <p>All scripts written in GDScript</p>
-  - <p><a href="https://github.com/skybound987/adevture_game" target="_blank">Repository</a></p><br>
+  - <p><a href="https://github.com/skybound987/adventure_game" target="_blank">Repository</a></p><br>
 
 <b>Arcade Style Space Shooter</b><a href="https://github.com/skybound987/arcade-shooter" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
   - <p>A simple arcade-style space themed vertical scroller built using Godot 4.1</p>
