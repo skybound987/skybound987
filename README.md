@@ -1,6 +1,6 @@
 <h2><p>Hello and welcome!</p>
   
-<p><a href="https://github.com/skybound987" target="_blank">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">CAD Designer</a>, <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html" target="_blank">Software Engineering Student</a></p></h2><br>
+<p><a href="https://github.com/skybound987" target="_blank">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">CAD Designer</a>, <a href="https://github.com/skybound987/WGU-Class-Progress" target="_blank">Software Engineering Student</a></p></h2><br>
 
 <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">Connect with me on LinkedIn</a><br>
 
