@@ -1,4 +1,6 @@
-<h2>Hi, I'm Jon! ✌ <a href="https://github.com/skybound987" target="_blank">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">CAD Designer</a>, <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html" target="_blank">Software Engineering Student</a></h2><br>
+<h2><p>Hello and welcome!</p>
+  
+<p><a href="https://github.com/skybound987" target="_blank">Programmer</a>, <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">CAD Designer</a>, <a href="https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html" target="_blank">Software Engineering Student</a></p></h2><br>
 
 <a href="https://www.linkedin.com/in/jonny-hendrix/" target="_blank">Connect with me on LinkedIn</a><br>
 
@@ -6,7 +8,7 @@
 
 <b>Shipbuilder by day 🌤 , software developer by night 🌙 ... </b>
   - <b>I am currently employed with defense contractor Huntington Ingalls Industries, America's largest shipbuilder and a global, all-domain defense provider.</b>
-  - <b>I am a software engineering student on my third term at WGU.</b>
+  - <b>I am a software engineering student on my fourth term at WGU.</b>
   - <b>I have made a commitment to transitioning my career into software development.</b>
   - <b><a href="https://github.com/skybound987/WGU-Class-Progress" target="_blank">See my current class progress at WGU</a></b>
 
