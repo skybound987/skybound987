@@ -19,6 +19,7 @@
   - <p>A mock website themed around tourism on a fictional island.</p>
   - <p>Built using Bootstrap 5.3, HTML, CSS, and JavaScript, and hosted on W3Schools.</p>
   - <p>Formatted for desktop, tablets, and mobile devices.</p>
+  - <p>Live Link: <a href="https://taniti-island-tourism.w3spaces.com/index.html" target="_blank">https://taniti-island-tourism.w3spaces.com/index.html</a></p>
   - <p><a href="https://github.com/skybound987/Mock-Website" target="_blank">Website Repository</a></p><br>
 
 <b>2.5D Isometric RPG</b><a href="https://github.com/skybound987/adventure_game" target="_blank"><img align="center" alt="Godot" src="https://github.com/skybound987/skybound987/assets/100818602/f263ddbf-a5be-449b-a3d9-3423c6cfdd36" width="65px"/></a>
