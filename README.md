@@ -15,7 +15,8 @@
 <br>
 <h2>Software Development Projects</h2>
 
-<b>Mock Website</b><a href="https://taniti-island-tourism.w3spaces.com/index.html" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/d27be88e-31a9-448a-9b4a-4711e42ae5a9" width="65px"/></a>
+<b>Mock Website</b><a href="https://taniti-island-tourism.w3spaces.com/index.html" target="_blank"><img align="center" alt="HTML CSS JS" src="https://github.com/skybound987/skybound987/assets/100818602/d27be88e-31a9-448a-9b4a-4711e42ae5a9" width="65px"/><img align="center" alt="HTML CSS JS" src="https://github.com/user-attachments/assets/24e0b17a-0e15-4d2e-99f4-fe7d7dc8af53" width="25px"/>
+</a>
   - <p>A mock website themed around tourism on a fictional island.</p>
   - <p>Built using Bootstrap 5.3, HTML, CSS, and JavaScript, and hosted on W3Schools.</p>
   - <p>Formatted for desktop, tablets, and mobile devices.</p>
