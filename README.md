@@ -42,11 +42,6 @@
   - <p>Built using the Angular framework and TypeScript.</p>
   - <p><a href="https://github.com/skybound987/Angular-Web-App" target="_blank">Angular Web Application Repository</a></p><br>
 
-<b>Next Idea</b>
-  - <p>An interactive guitar fretboard application with the goal of helping memorizing the notes on the fretboard.</p>
-  - <p>Displays a guitar fretboard, and a random string/fret will be chosen.</p>
-  - <p>Player has to guess the note correctly to proceed and gain a higher score.</p>
-
 <br>
 <h2>Connect with me on LinkedIn:</h2>
 
